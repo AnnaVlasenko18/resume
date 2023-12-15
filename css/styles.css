@@ -241,10 +241,6 @@ body {
 }
 
 /* Contacts */
-/* .contacts-type {
-  margin-right: 8px;
-} */
-
 .contacts-iten {
   margin: 0;
 }
@@ -269,7 +265,7 @@ body {
 
 .contacts-local {
   margin: 0;
-  /* margin-left: 8px; */
+
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
