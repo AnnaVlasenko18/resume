@@ -171,6 +171,13 @@ body {
   margin: 0;
 }
 
+.text-experience {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+}
+
 /* Education */
 .ediccation-title {
   font-style: normal;
