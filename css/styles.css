@@ -116,6 +116,7 @@ body {
   line-height: 20px;
   text-decoration-line: none;
   color: #000000;
+  text-decoration: underline;
 }
 
 .info-progects {
@@ -249,11 +250,12 @@ body {
 }
 
 /* Contacts */
-.contacts-iten {
+.contacts-item {
   margin: 0;
 }
 
-.contacts-number {
+.contacts-number,
+.contacts-email {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -268,7 +270,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #161d2a;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .contacts-local {
